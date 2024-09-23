@@ -1,0 +1,30 @@
+[
+  {
+    "student_id": 7,
+    "student_name": "Parveen",
+    "student_age": 27,
+    "grade": "A",
+    "school_id": 1
+  },
+  {
+    "student_id": 42,
+    "student_name": "Rahul",
+    "student_age": 27,
+    "grade": "A",
+    "school_id": 2
+  },
+  {
+    "student_id": 88,
+    "student_name": "Sun",
+    "student_age": 27,
+    "grade": "A",
+    "school_id": 1
+  },
+  {
+    "student_id": 82,
+    "student_name": "Sundd",
+    "student_age": 27,
+    "grade": "A",
+    "school_id": 2
+  }
+]
